@@ -1,0 +1,1 @@
+# OpenSea.io-basic-watermarking-script-JPG
