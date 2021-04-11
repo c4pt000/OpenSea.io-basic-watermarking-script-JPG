@@ -1,3 +1,5 @@
+* requires php-gd, php, apache2 (or nginx)
+
 # OpenSea.io-basic-watermarking-script-JPG
 
 https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/19201499528010607873248852600248884910024546448420280403806937460419197927425
