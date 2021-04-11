@@ -1,5 +1,8 @@
 # OpenSea.io-basic-watermarking-script-JPG
 <br>
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG/main/watermarking-1.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG/main/watermarking-2.png)
+
 <br>
 git clone https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG
 <br>
