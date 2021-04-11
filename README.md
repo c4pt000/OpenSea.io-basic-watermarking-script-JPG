@@ -12,7 +12,11 @@ then the script uses a semi transparent "opensea.io" logo and places in the lowe
 <br>
 <br>
 
-the script only does this on the client side of the browser (the actual file never physically changes preserving the original file from any changes it only makes the changes as the browser views it)
+the script only does this on the client side of the browser (the actual file never physically changes preserving the original file from any changes
+<br>
+<br>
+
+(it only makes the changes as the browser displays it)
 <br>
 <br>
 
