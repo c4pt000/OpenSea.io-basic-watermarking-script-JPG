@@ -1,7 +1,12 @@
 # OpenSea.io-basic-watermarking-script-JPG
+<br>
+<br>
 git clone https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG
+<br>
+<br>
+<br>
 -> /var/www/html/watermark
-
+<br>
 <br>
 replace liberty.jpg file with original file to watermark
 <br>
