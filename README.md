@@ -1,4 +1,15 @@
-* requires php-gd, php, apache2 (or nginx)
+* requires php-gd, php, apache2 (or nginx), ffmpeg
+
+```
+docker run -it -d -p 888:888 -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/opensea-watermarking-template
+
+change /etc/apache2/ports.conf from 888 once running the docker VM
+
+docker exec -it <docker_vm_hash> bash
+service apache2 start
+
+firefox 127.0.0.1:888/index.html
+```
 
 # OpenSea.io-basic-watermarking-script-JPG
 
