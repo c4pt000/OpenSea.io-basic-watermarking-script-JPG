@@ -1,4 +1,6 @@
 # OpenSea.io-basic-watermarking-script-JPG
+git clone https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG
+-> /var/www/html/watermark
 
 <br>
 replace liberty.jpg file with original file to watermark
@@ -29,4 +31,4 @@ change to:
 <img src="watermark.php?file=file_you_want_to_watermark.jpg"></img>
 
 ```
-firefox 127.0.0.1/index.html
+firefox 127.0.0.1/watermark/index.html
