@@ -47,3 +47,6 @@ change to:
 
 ```
 firefox 127.0.0.1/watermark/index.html
+
+
+![s1](https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/blob/main/wm_17568181861618174820-x264.avi)
