@@ -1,3 +1,8 @@
+# QR code OT (other thoughts) informational and transparent QR
+
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
+
 # response from OpenSea.io 04-22-2021 regarding protecting NFTs
 
 https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/opensea.io-watermarking-response-to-request.txt
