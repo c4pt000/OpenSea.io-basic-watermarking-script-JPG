@@ -2,6 +2,8 @@
 
 https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/opensea.io-watermarking-response-to-request.txt
 
+https://www.linkedin.com/in/natechastain
+
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page1-opensea.png)
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page2-opensea.png)
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page3-opensea.png)
