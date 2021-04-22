@@ -1,0 +1,80 @@
+watermark NFT artwork site wide#848
+
+as mentioned before a watermarking script would protect the interest of people selling and buying artwork NFTs from screenshot exposure and being cheated out of selling NFTs
+
+I attempted to put a simple script together for client side watermarking the server side image is left untouched (only for JPGs with this script it has to be modifed for PNGs and other still image types)
+
+https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG
+
+this is the NFT I am trying to sell (I watermarked this NFT using the opensea.io logo using gimp manually with a mouse, not with an automated php script)
+
+https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/19201499528010607873248852600248884910024546448420280403806937460419197927425
+
+it actually is also possible to watermark animated gifs the same way by and moving video mp4 / avi by dropping the video or animated gif into frames with ffmpeg and allowing a similar type of script to watermark each frame then use ffmpeg to recombine the watermarked frames back into an animated gif or mp4 / avi
+(a physical copy would have to be kept on the server side which wouldnt be publically viewable of the file before it is watermarked frame by frame then only the watermarked file of the animated gif or mp4 / avi would be viewable on the client side……on purchase the buyer gets the original server side which isnt watermarked )
+
+David Weinberg
+12 days ago
+1
+
+https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG/blob/main/opensea-watermarking-script.pdf
+
+David Weinberg
+12 days ago
+
+you could always just put an unwatermerked version of the nft in the unlockable content and use a watermarked version as the preview image
+
+108CAM
+7 hours ago
+
+the point was you could install it system wide as a javascript or php script so users can sort of get an idea of what the image looks like visually (but its protected by a watermark so that someone doesnt just screenshot the NFT and take it to a print shop to have a full wall blow up or a 6x4 poster)……when someone buys an NFT they get the unlocked content
+
+this way the average user whether they are selling a NFT or buying a NFT they will have an added sense of security within the OpenSea.io marketplace
+
+(also being able to download the content whether its a paid listing or not defeats the entire purpose if the listing is marked as an auction or fixed price sale)
+
+as before,
+watermark scripts arent new they have been around for over a decade
+you can see a crude pseudo design as a template in php here
+it shows a photo of the statue of liberty that I was trying to sell that was a real picture taken from the 1960s from my family that is actually unique for the angle and light of the photograph that wasnt currently indexed anywhere on the internet, (same with my other real photographs of real world objects, except for the two joke listings that I made with a photo program)
+
+you can see from the crude watermarking script on my repo, the statue of liberty is watermarked but it is protected from being copied at a print shop or otherwise, the second photo is the same as the first without the watermark the original
+
+the watermark isnt too obscure that the viewer doesnt know what they are buying or what the photo/art consists of
+
+the watermark involves overlapping the photo onto itself twice using a semi transparent alpha layer to overlap the photo, nothing can decode the watermark, not an image editing program nor a computer ai based image editng program attempting to do a form of descrambling (since the overlapping photos are scrambled at the pixel level in a semi infinite wave function (at the pixel level) )
+
+the second watermark is a watermark for animated .gif/.avi and .mp4
+using ffmpeg to overlap each frame by frame of the video with a repeating tile watermark of a semi crude version of the opensea.io logo which I made by making reducing the visible layers and using a 1px eraser in GIMP to make random holes in the opensea.io logo (of the opensea.io sailboat)
+
+https://github.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4
+
+David Weinberg
+5 hours ago
+
+the site also needs “Netverify” since its dealing with financial stuff
+
+David Weinberg
+4 hours ago
+
+@David Weinberg You’re missing the point of NFTs by proposing watermarks. What users are buying, and what has value, isn’t the image itself, what has value is the provable, verifiable ownership of that image. Peter Lik’s “Phantom” photograph sold for 6.5mm and there are images of it far-and-wide in high resolution across the Internet, without a watermark.
+
+Additionally, Netverify is not relevant to our platform as we are not directly managing funds - buying and selling activity happens through smart contracts that are outside of our control, and we’re paid our fee through an amount that is automatically set aside by those smart contracts.
+
+Nate Chastain
+3 hours ago
+
+that doesnt stop the common internet user from taking a screenshot and redistributing the image
+
+David Weinberg
+4 minutes ago
+
+screenshoting images on the internet before NFTs were involved didn’t really seem to matter from not having financial ties, since years and years ago before the internet photographs had financial rights for sale from professional photographers to be used like other media (music, tv, etc)
+
+David Weinberg
+2 minutes ago
+
+now that NFTs are incorporating photos or ART as photos for sale there are financial ties
+
+David Weinberg
+2 minutes ago
