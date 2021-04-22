@@ -1,3 +1,16 @@
+# response from OpenSea.io 04-22-2021 regarding protecting NFTs
+
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page1-opensea.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page2-opensea.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page3-opensea.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/page4-opensea.png)
+
+
+
+
+<br>
+<br>
+<br>
 * requires php-gd, php, apache2 (or nginx), ffmpeg
 
 ```
