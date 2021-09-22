@@ -12,6 +12,7 @@ An NFT and own it , it doesn't involve stealing any kind of secret credentials
 Anyone can screenshot the NFTs and own them!
 
 https://www.theverge.com/22683766/nft-scams-theft-social-engineering-opensea-community-recovery
+<br>
 --09-22-2021
 
 <br>
