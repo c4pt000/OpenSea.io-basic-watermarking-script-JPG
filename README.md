@@ -3,7 +3,7 @@
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
 
-
+---09-22-201
 * 09-22-2021
 He made up a story about QR codes being stolen or hijacked he seems like a nutcase
 I offered a suggestion to be helpful because anyone can login and screenshot
@@ -12,6 +12,15 @@ An NFT and own it , it doesn't involve stealing any kind of secret credentials
 Anyone can screenshot the NFTs and own them!
 
 https://www.theverge.com/22683766/nft-scams-theft-social-engineering-opensea-community-recovery
+--09-22-2021
+
+<br>
+<br>
+
+<br>
+
+<br>
+<br>
 
 
 # response from OpenSea.io 04-22-2021 regarding protecting NFTs
