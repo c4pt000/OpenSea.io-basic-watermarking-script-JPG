@@ -1,9 +1,7 @@
-# QR code OT (other thoughts) informational and transparent QR
 
-![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
-![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
 
----09-22-201
+
+---09-22-2021
 * 09-22-2021
 He made up a story about QR codes being stolen or hijacked he seems like a nutcase
 I offered a suggestion to be helpful because anyone can login and screenshot
