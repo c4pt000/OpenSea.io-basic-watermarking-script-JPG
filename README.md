@@ -7,7 +7,7 @@ He made up a story about QR codes being stolen or hijacked he seems like a nutca
 I offered a suggestion to be helpful because anyone can login and screenshot
 An NFT and own it , it doesn't involve stealing any kind of secret credentials
 # honest
-Anyone can screenshot the NFTs and own them!
+Anyone can screenshot the NFTs (using print screen on the keyboard) and own them!
 
 https://www.theverge.com/22683766/nft-scams-theft-social-engineering-opensea-community-recovery
 <br>
