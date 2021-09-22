@@ -1,4 +1,4 @@
-
+# @opensea.io whatever kind of watermark style or logo you want you nutcase!
 
 
 ---09-22-2021
